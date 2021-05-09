@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.bg-dark{
+    background-color:green;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.form-select:focus{
+    outline-style: none;
+}
